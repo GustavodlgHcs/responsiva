@@ -1,0 +1,116 @@
+body
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color:#b2dbb2 ;
+
+}
+.titulo1
+{
+   font-size: 80px;
+   color:rgb(137, 199, 140);
+   text-align: center;
+   border-radius: 15px;
+   border: solid rgb(79, 112, 81);
+   padding: 90px;
+   margin: 100px;
+   background-color: #84a184;
+   box-shadow: 9px 9px 9px #343f34;
+   letter-spacing: .1em;
+   text-shadow: 
+   0 -1px 0 #b7ffb7
+  ,0 1px 0 #698069
+  ,0 2px 0 #425042
+  ,0 3px 0 #262e26
+  ,0 4px 0 #262e26
+  ,0 5px 0 #0000
+   ,0 6px 0 #262e26
+  ,0 7px 0 #262e26
+  ,0 8px 0 #425042;
+}
+div{
+  text-align: left;
+  border: solid rgb(79, 112, 81);
+  padding: 90px;
+  margin: 100px;
+  background-color: #84a184;
+  box-shadow: 9px 9px 7px #343f34;
+}
+.tema1{
+   font-size: 55px;
+   color: rgb(137, 199, 140);
+   letter-spacing: .1em;
+   text-shadow:
+   0 -1px 0 #b7ffb7
+   ,0 1px 0 #698069
+  ,0 2px 0 #425042
+  ,0 3px 0 #262e26
+  ,0 4px 0 #262e26
+  ,0 5px 0 #0000
+  ,0 6px 0 #262e26
+  ,0 7px 0 #262e26
+  ,0 8px 0 #425042;
+}
+.IMAGEN1{
+   border-radius: 15px;
+   text-align: center;
+   border: solid 7px rgb(79, 112, 81);
+   box-shadow: 9px 7px 9px #262e26;
+}
+.letter1{
+   font-size: 27px;
+   letter-spacing: .1em;
+}
+.boton{
+   display: inline-block;
+   color: rgb(79, 112, 81);
+   background-color: #84a184;
+   border:none;
+   padding: 20px 40px;
+   font-size: 24px;
+   font-weight: 600;
+   border-radius: 15px;
+   cursor:pointer;
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.15);
+        transition: transform 0.3s ease, box-shadow 0.3s ease, background 0.3s ease;
+        width: 80%;
+        max-width: 400px;
+        text-align: center;
+        text-decoration: none;
+   }
+   .boton:hover{
+      color: rgb(247, 247, 247);
+      background-color: #419c41;
+      transform: translateY(-3px);
+       box-shadow: 9px 10px 20px rgba(0, 0, 0, 0.25);
+   }
+   .boton:focus{
+      outline: 3px solid #39a848;
+        outline-offset: 4px;
+   }
+   .boton:active{
+      transform: scale(0.98);
+   }
+   .tema2{font-size: 55px;
+   color: rgb(137, 199, 140);
+   letter-spacing: .1em;
+   text-shadow:
+   0 -1px 0 #b7ffb7
+   ,0 1px 0 #698069
+  ,0 2px 0 #425042
+  ,0 3px 0 #262e26
+  ,0 4px 0 #262e26
+  ,0 5px 0 #0000
+  ,0 6px 0 #262e26
+  ,0 7px 0 #262e26
+  ,0 8px 0 #425042;}
+  .letter2{
+    font-size: 27px;
+   letter-spacing: .1em;
+  }
+  .IMAGEN2{
+   border-radius: 15px;
+   text-align: center;
+   border: solid 7px rgb(79, 112, 81);
+   box-shadow: 9px 7px 9px #262e26;
+}
+
